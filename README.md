@@ -1,4 +1,5 @@
-# DT-Practice-Projects
+# DataScience Practice Projects
+
 1.Employee Dataset Analysis
 
 2.Titanic Dataset Analysis
